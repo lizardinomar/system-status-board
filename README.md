@@ -42,11 +42,11 @@ Each LED represents a subsystem amd turns off if it detects a malfunction in tha
 - **Orange LED** (GPIO27) → ON when weather system is running, OFF if down.
 
 ## Future Expansion
-- Integrate real-time stock price monitoring  
-- Add weather API monitoring  
-- Add buzzer or other alert systems  
-- Expand to more LEDs or relays for additional system monitoring  
-- Optional web dashboard for remote system status  
+- Integrate real-time stock price monitoring. 
+- Add weather API monitoring. 
+- Add buzzer or other alert systems. 
+- Expand to more LEDs or relays for additional system monitoring.
+- Optional web dashboard for remote system status.
 
 ## Notes
 - Resistors can be placed in any orientation — current-limiting value is the important part. 
