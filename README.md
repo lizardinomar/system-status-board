@@ -1,4 +1,4 @@
-# system-status-board
+# System Status Board
 
 ## Overview
 This project is a Raspberry Pie-based system status hub that uses LEDs to indicate the functioning of different services running on the Pi.
