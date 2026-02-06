@@ -46,7 +46,7 @@ Each LED represents a subsystem and turns off if it detects a malfunction in tha
 
 ![System Running](media/system-status.jpeg)
 
-![Watch Demo](media/ssdemo.mp4)
+[Watch Demo](media/ssdemo.mp4)
 
 ## Future Expansion
 - Integrate real-time stock price monitoring. 
