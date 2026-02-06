@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a Raspberry Pie-based system status hub that uses LEDs to indicate the functioning of different services running on the Pi.
-Each LED represents a subsystem amd turns off if it detects a malfunction in that service. The LEDs all blink in a specific sequence.
+Each LED represents a subsystem and turns off if it detects a malfunction in that service. The LEDs all blink in a specific sequence.
 
 ## LED Status Mapping
 | GPIO Pin | LED Color | System Monitored | Behavior |
