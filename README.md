@@ -1,4 +1,5 @@
-# real-time-stock-alert-system
+# system-status-board
+
 ## Overview
 This project is a Raspberry Pie-based system status hub that uses LEDs to indicate the functioning of different services running on the Pi.
 Each LED represents a subsystem amd turns off if it detects a malfunction in that service. The LEDs all blink in a specific sequence.
@@ -40,6 +41,12 @@ Each LED represents a subsystem amd turns off if it detects a malfunction in tha
 - **Purple LED** (GPIO17) → ON when Pi is running well, OFF when Pi is down.  
 - **Yellow LED** (GPIO22) → ON when stock monitoring system is active, OFF if the service fails.  
 - **Orange LED** (GPIO27) → ON when weather system is running, OFF if down.
+
+## Live Demo
+
+![System Running](media/system-status.jpeg)
+
+![Watch Demo](media/ssdemo.mp4)
 
 ## Future Expansion
 - Integrate real-time stock price monitoring. 
